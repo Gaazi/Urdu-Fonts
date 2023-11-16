@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Noto Nastaliq Urdu';
+    line-height: 2.5em;
+    src: url(https://fonts.gstatic.com/s/notonastaliqurdu/v20/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qt_-PK-V2t_8.woff2) format('woff2');
+  }
+  
+  @font-face {
+    font-family: 'Gulzar';
+    src: url(https://fonts.gstatic.com/s/gulzar/v12/Wnz6HAc9eB3HB2I7YzYYmg8.woff2) format('woff2');
+  }
+  
+
+ /* Mehr Nastaliq Web Font */
+ @font-face {
+  font-family: 'Mehr';
+  src: url(//unpkg.com/mehr/mehr.woff) format('woff');
+  src: url(//unpkg.com/mehr/mehr.ttf) format('truetype');
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+  @font-face {
+    font-family: 'Amiri';
+    src: url(https://fonts.gstatic.com/s/amiri/v27/J7aRnpd8CGxBHpUrtLMA7w.woff2) format('woff2');
+  }
+
+  @font-face {
+    font-family: 'UrduKhushKhatiBook';
+        src: url('https://fontlibrary.org/assets/fonts/urdukhushkhati-ttf/3212540d7bf97a3f151974a29e6bc324/22abbaa1e151632d39d4c5cc0d29e95b/UrduKhushKhatiBook.ttf') format('truetype');
+      }
+
+      @font-face {
+        font-family: 'Nafees';
+            src: url('https://fontlibrary.org/assets/fonts/nafees-nastaleeq/f7aa4eb888367518b563474b4f498f40/4e99406984f565d64d32a29bd46a456e/NafeesRegular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+          }
+
+          @font-face {
+            font-family: 'Noori KhushKhat';
+                src: url('https://fontlibrary.org/assets/fonts/noori-khushkhat/f8d54f059679eb6bc795c90f531a102a/f4a083e44f582108ebd285b0789a4de2/NooriKhushKhatKhushKhat.ttf') format('truetype');
+              }
+
+              @font-face {
+                font-family: 'Jameel Khushkhat-LK';
+                    src: url('https://fontlibrary.org/assets/fonts/jameel-khushkhat-lk/219a5cf0c0e0acf496cc2d391c2ff4b1/c81c5a3e69df6a98290661ad70edabbb/JameelKhushkhatLKRegular.ttf') format('truetype');
+              }
+
+
+
+  /* CSS Aplly */
+body {
+    font-family: "Mehr", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
+    line-height: 2.25em;
+}
+.post-title {
+  font-family: "Mehr", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
+}
+
+.post-body {
+      font-family: "Mehr", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
+      line-height: 2.25em;
+}
+

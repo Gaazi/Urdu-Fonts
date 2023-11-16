@@ -1,0 +1,16 @@
+{
+  "name": "urdu-fonts",
+  "version": "1.0.0",
+  "description": "Urdu Nastaliq Fonts for Website",
+  "main": "urdu-fonts.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Urdu Fonts",
+    "Urdu Web Fonts",
+    "Fonts"
+  ],
+  "author": "Ubaidullah Ghazi",
+  "license": "ISC"
+}
