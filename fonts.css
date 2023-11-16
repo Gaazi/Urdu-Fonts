@@ -1,3 +1,10 @@
+/* Mehr Nastaliq Web Font */
+@font-face {
+  font-family: 'Mehr';
+  src: url(unpkg.com/urdu-fonts/fonts/mehr.woff) format('woff'),
+       url(unpkg.com/urdu-fonts/fonts/mehr.ttf) format('truetype');
+}
+
 @font-face {
     font-family: 'Noto Nastaliq Urdu';
     line-height: 2.5em;
@@ -9,14 +16,6 @@
     src: url(https://fonts.gstatic.com/s/gulzar/v12/Wnz6HAc9eB3HB2I7YzYYmg8.woff2) format('woff2');
   }
   
-
- /* Mehr Nastaliq Web Font */
- @font-face {
-  font-family: 'Mehr';
-  src: url(//unpkg.com/mehr/mehr.woff) format('woff');
-  src: url(//unpkg.com/mehr/mehr.ttf) format('truetype');
-  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
-}
   @font-face {
     font-family: 'Amiri';
     src: url(https://fonts.gstatic.com/s/amiri/v27/J7aRnpd8CGxBHpUrtLMA7w.woff2) format('woff2');
@@ -27,9 +26,9 @@
         src: url('https://fontlibrary.org/assets/fonts/urdukhushkhati-ttf/3212540d7bf97a3f151974a29e6bc324/22abbaa1e151632d39d4c5cc0d29e95b/UrduKhushKhatiBook.ttf') format('truetype');
       }
 
-      @font-face {
-        font-family: 'Nafees';
-            src: url('https://fontlibrary.org/assets/fonts/nafees-nastaleeq/f7aa4eb888367518b563474b4f498f40/4e99406984f565d64d32a29bd46a456e/NafeesRegular.ttf') format('truetype');
+  @font-face {
+    font-family: 'Nafees';
+      src: url('https://fontlibrary.org/assets/fonts/nafees-nastaleeq/f7aa4eb888367518b563474b4f498f40/4e99406984f565d64d32a29bd46a456e/NafeesRegular.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
           }
