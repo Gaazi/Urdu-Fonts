@@ -12,5 +12,9 @@
     "Fonts"
   ],
   "author": "Ubaidullah Ghazi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ghazi-in/Urdu-Fonts.git"
+  },
   "license": "ISC"
 }
