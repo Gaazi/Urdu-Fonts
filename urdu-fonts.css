@@ -19,9 +19,8 @@
   src: url(https://cdn.jsdelivr.net/npm/jameel-noori/fonts/jameel-noori-nastaleeq4.woff2) format('woff2'),
       url(https://unpkg.com/jameel-noori/fonts/jameel-noori-nastaleeq4.woff2) format('woff2');
 }
+
 /* Jameel Noori Nastaliq Kasheedah v3 */
-/* font link */
-/* https://unpkg.com/browse/jameel-noori@1.1.0/fonts/jameel-noori-nastaleeq4.woff2 */
 @font-face {
   font-family: "J.N.N.Kashida";
     src: url(https://cdn.jsdelivr.net/npm/jameel-noori-nastaliq-kasheeda/fonts/JameelNooriNastaliqKasheed3.woff2) format('woff2'),
