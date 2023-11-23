@@ -1,11 +1,42 @@
-/*
- * Mehr Nastaliq Web Font
- */
+/* Mehr Nastaliq Web Font v2 */
  @font-face {
   font-family: 'Mehr';
-  src: url(//unpkg.com/mehr/mehr.woff) format('woff');
-  src: url(//unpkg.com/mehr/mehr.ttf) format('truetype');
+  src: url(//unpkg.com/mehr/mehr.woff2) format('woff2'),
+       url(//unpkg.com/mehr/mehr.woff) format('woff'),
+       url(//unpkg.com/mehr/mehr.ttf) format('truetype');
   unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+/* Jameel Noori Nastaliq v4 */
+@font-face {
+  font-family: "JameelNooriNastaliq";
+  src: url(//unpkg.com/mehr/mehr.woff2) format('woff2'),
+       url(//unpkg.com/mehr/mehr.woff) format('woff'),
+       url(//unpkg.com/mehr/mehr.ttf) format('truetype');
+}
+
+/* Jameel Noori Nastaliq Kasheedah v3 */
+@font-face {
+  font-family: "JameelNooriNastaliqKasheedah";
+  src: url(//unpkg.com/mehr/mehr.woff2) format('woff2'),
+       url(//unpkg.com/mehr/mehr.woff) format('woff'),
+       url(//unpkg.com/mehr/mehr.ttf) format('truetype');
+}
+
+/* Faiz Lahori Nastaliq v2 */
+@font-face {
+  font-family: "FaizLahoriNastaleeq";
+  src: url(//unpkg.com/mehr/mehr.woff2) format('woff2'),
+       url(//unpkg.com/mehr/mehr.woff) format('woff'),
+       url(//unpkg.com/mehr/mehr.ttf) format('truetype');
+}
+
+/* AlQalam Taj Nastaleeq */
+@font-face {
+  font-family: "AlQalamTajNastaleeq";
+  src: url(//unpkg.com/mehr/mehr.woff2) format('woff2'),
+       url(//unpkg.com/mehr/mehr.woff) format('woff'),
+       url(//unpkg.com/mehr/mehr.ttf) format('truetype');
 }
 
 @font-face {
