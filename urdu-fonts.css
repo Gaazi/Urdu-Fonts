@@ -35,18 +35,16 @@
 
 /* Faiz Lahori Nastaliq v2 */
 @font-face {
-  font-family: "FaizLahoriNastaleeq";
-  src: url(//unpkg.com/urdu-fonts/fonts/mehr.woff2) format('woff2'),
-       url(//unpkg.com/mehr/mehr.woff) format('woff'),
-       url(//unpkg.com/mehr/mehr.ttf) format('truetype');
+  font-family: "Faiz-Nastaliq";
+  src: url(https://cdn.jsdelivr.net/npm/faiz-nastaliq/fonts/FaizNastaliq2.woff2) format('woff2'),
+       url(https://unpkg.com/faiz-nastaliq/fonts/FaizNastaliq2.woff2) format('woff2');
 }
 
-/* AlQalam Taj Nastaleeq */
+/* AlQalam_Taj_Nastaleeq */
 @font-face {
-  font-family: "AlQalamTajNastaleeq";
-  src: url(//unpkg.com/urdu-fonts/fonts/mehr.woff2) format('woff2'),
-       url(//unpkg.com/mehr/mehr.woff) format('woff'),
-       url(//unpkg.com/mehr/mehr.ttf) format('truetype');
+  font-family: "AlQalam-Taj-Nastaleeq";
+  src: url(https://cdn.jsdelivr.net/npm/alqalam-taj-nastaliq/fonts/alqalam-taj-nastaliq.woff2) format('woff2'),
+       url(https://unpkg.com/alqalam-taj-nastaliq/fonts/alqalam-taj-nastaliq.woff2) format('woff2');
 }
 
 @font-face {
@@ -89,17 +87,18 @@
 
 
 
-  /* CSS Aplly */
+/* CSS Aplly */
+/* Available Fonts you can use any fonts  */
+/* fonts Name:>>>>>>> "Mehr", "J.N.Nastaliq", "J.N.N.Kashida", "Faiz-Nastaliq", "AlQalam-Taj-Nastaleeq", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri", "JameelNooriNastaliq", "JameelNooriNastaliqKasheedah"; */
 body {
-    font-family: "Mehr", "JameelNooriNastaliq", "JameelNooriNastaliqKasheedah", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
+    font-family: "Mehr", "J.N.Nastaliq", "J.N.N.Kashida", "Faiz-Nastaliq", "AlQalam-Taj-Nastaleeq", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri", "JameelNooriNastaliq", "JameelNooriNastaliqKasheedah";
     line-height: 2.25em;
 }
 .post-title {
-  font-family: "Mehr", "JameelNooriNastaliq", "JameelNooriNastaliqKasheedah", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
+  font-family: "Mehr", "J.N.Nastaliq", "J.N.N.Kashida", "Faiz-Nastaliq", "AlQalam-Taj-Nastaleeq", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri", "JameelNooriNastaliq", "JameelNooriNastaliqKasheedah";
 }
 
 .post-body {
-      font-family: "Mehr", "JameelNooriNastaliq", "JameelNooriNastaliqKasheedah", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
-      line-height: 2.25em;
+      font-family: "Mehr", "J.N.Nastaliq", "J.N.N.Kashida", "Faiz-Nastaliq", "AlQalam-Taj-Nastaleeq", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri", "JameelNooriNastaliq", "JameelNooriNastaliqKasheedah";
 }
 
