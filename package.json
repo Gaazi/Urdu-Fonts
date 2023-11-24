@@ -1,6 +1,6 @@
 {
   "name": "urdu-fonts",
-  "version": "1.5.0", 
+  "version": "1.5.2", //Next version 1.5.2
   "description": "Urdu Nastaliq Fonts for Website",
   "main": "fonts.css",
   "scripts": {
