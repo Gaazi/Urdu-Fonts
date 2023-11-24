@@ -2,7 +2,7 @@
   "name": "urdu-fonts",
   "version": "1.5.2", //Next version 1.5.2
   "description": "Urdu Nastaliq Fonts for Website",
-  "main": "fonts.css",
+  "main": "urdu-fonts.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
