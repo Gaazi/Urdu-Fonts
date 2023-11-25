@@ -1,9 +1,17 @@
 # Urdu-Fonts
-/* CSS Aplly / Available Fonts Name, you can use any fonts  */
+/* Aplly CSS / use the provided Fonts |  #Font Name List: "Mehr", "Emad-Nastaliq", "Nafees", "J.N.Nastaliq", "J.N.N.Kashida", "Faiz-Nastaliq", "AlQalam-Taj-Nastaleeq", "Photex-Decorative-Nastaliq", "Photex-Nice-Nastaliq", "Urdu Khush Khati", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";*/
+
 
 body {
-    font-family: "Mehr", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
-   line-height: 2.25em;
+    font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Gulzar";  /* use provided fonts */
+    line-height: 2.25em;
+}
+.post-title {
+  font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Gulzar";
+}
+
+.post-body {
+      font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Gulzar";
 }
 
 * مہر نستعلیق
