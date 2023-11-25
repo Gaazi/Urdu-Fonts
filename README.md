@@ -3,8 +3,7 @@
 
 
 body {
-    font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Gulzar";  /* use provided fonts */
-    line-height: 2.25em;
+    font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Gulzar";
 }
 .post-title {
   font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Gulzar";
