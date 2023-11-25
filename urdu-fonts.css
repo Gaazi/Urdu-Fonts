@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Mehr';
   src: url(https://cdn.jsdelivr.net/npm/urdu-fonts/fonts/mehr.woff2) format('woff2'),
+       url(https://unpkg.com/urdu-fonts/fonts/mehr.woff2) format('woff2'),
        url(//unpkg.com/urdu-fonts/fonts/mehr.woff2) format('woff2'),
        url(//unpkg.com/mehr/mehr.woff) format('woff'),
        url(//unpkg.com/mehr/mehr.ttf) format('truetype');
@@ -59,6 +60,12 @@
   src: url(https://cdn.jsdelivr.net/npm/alqalam-taj-nastaliq/fonts/alqalam-taj-nastaliq.woff2) format('woff2'),
        url(https://unpkg.com/alqalam-taj-nastaliq/fonts/alqalam-taj-nastaliq.woff2) format('woff2');
 }
+
+/* Photex-Decorative-Nastaliq */
+@font-face{font-family:Photex-Decorative-Nastaliq;src: url(https://cdn.jsdelivr.net/npm/photex-decorative-nastaliq@1.0.0/fonts/photex-decorative-nastaliq.woff2) format('woff2'),url(https://unpkg.com/photex-decorative-nastaliq@1.0.0/fonts/photex-decorative-nastaliq.woff2) format('woff2');}
+
+/* Photex-Nice-Nastaliq */
+@font-face{font-family:Photex-Nice-Nastaliq;src:url(https://cdn.jsdelivr.net/npm/photex-nice-nastaliq/fonts/photex-nice-nastaliq.woff2) format('woff2'),url(https://unpkg.com/photex-nice-nastaliq/fonts/photex-nice-nastaliq.woff2) format('woff2')}
 
 @font-face {
   font-family: 'UrduKhushKhatiBook';
