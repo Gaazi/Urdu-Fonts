@@ -1,5 +1,5 @@
 # Urdu-Fonts
-/* Aplly CSS / use the provided Fonts |  #Font Name List: "Mehr", "Emad-Nastaliq", "Nafees", "J.N.Nastaliq", "J.N.N.Kashida", "Faiz-Nastaliq", "AlQalam-Taj-Nastaleeq", "Photex-Decorative-Nastaliq", "Photex-Nice-Nastaliq", "Urdu Khush Khati", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";*/
+/* Aplly CSS / use the provided Fonts |  #Font Name List: "Mehr", "Emad-Nastaliq", "Nafees", "J.N.Nastaliq", "J.N.N.Kashida", "Faiz-Nastaliq", "AlQalam-Taj-Nastaleeq", "Photex-Decorative-Nastaliq", "Photex-Nice-Nastaliq", "Urdu Khush Khati", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";  */
 
 
 body {
