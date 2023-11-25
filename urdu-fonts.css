@@ -74,7 +74,7 @@
 }
 
 @font-face {
-  font-family: 'Jameel Khushkhat-LK';
+  font-family: 'Jameel-Khushkhat-LK';
   src: url('https://fontlibrary.org/assets/fonts/jameel-khushkhat-lk/219a5cf0c0e0acf496cc2d391c2ff4b1/c81c5a3e69df6a98290661ad70edabbb/JameelKhushkhatLKRegular.ttf') format('truetype');
 }
 
@@ -98,14 +98,14 @@ src: url(https://fonts.gstatic.com/s/amiri/v27/J7aRnpd8CGxBHpUrtLMA7w.woff2) for
 /* Fonts Name List: if you want to use any fonts Enter Provided Fonts Name After font-family:  */
 /* font-family: "Mehr", "Emad-Nastaliq", "Nafees", "J.N.Nastaliq", "J.N.N.Kashida", "Faiz-Nastaliq", "AlQalam-Taj-Nastaleeq", "Photex-Decorative-Nastaliq", "Photex-Nice-Nastaliq", "Urdu Khush Khati", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri", "JameelNooriNastaliq", "JameelNooriNastaliqKasheedah"; */
 body {
-    font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Urdu-Khush-Khati", "Gulzar";  /* use provided fonts */
+    font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Gulzar";  /* use provided fonts */
     line-height: 2.25em;
 }
 .post-title {
-  font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Urdu-Khush-Khati", "Gulzar";
+  font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Gulzar";
 }
 
 .post-body {
-      font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Urdu-Khush-Khati", "Gulzar";
+      font-family: "Mehr", "Emad-Nastaliq", "Nafees", "Gulzar";
 }
 
