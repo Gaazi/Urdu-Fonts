@@ -1,4 +1,5 @@
-<!-- /* CSS Aplly / Available Fonts Name, you can use any fonts  */ -->
+/* CSS Aplly / Available Fonts Name, you can use any fonts  */
+
 body {
     font-family: "Mehr", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
    line-height: 2.25em;
