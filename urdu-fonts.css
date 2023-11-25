@@ -67,6 +67,7 @@
 /* Photex-Nice-Nastaliq */
 @font-face{font-family:Photex-Nice-Nastaliq;src:url(https://cdn.jsdelivr.net/npm/photex-nice-nastaliq/fonts/photex-nice-nastaliq.woff2) format('woff2'),url(https://unpkg.com/photex-nice-nastaliq/fonts/photex-nice-nastaliq.woff2) format('woff2')}
 
+/* 'UrduKhushKhatiBook' */
 @font-face {
   font-family: 'UrduKhushKhatiBook';
   src: url('https://fontlibrary.org/assets/fonts/urdukhushkhati-ttf/3212540d7bf97a3f151974a29e6bc324/22abbaa1e151632d39d4c5cc0d29e95b/UrduKhushKhatiBook.ttf') format('truetype');
